@@ -1,0 +1,1 @@
+import{m as e}from"./request-C1_hm9C_.js";const r=t=>e({url:"/operator/station/operate/getStationInfo",method:"post",data:t}),a=t=>e({url:"/biz/machine/queryPage",method:"post",data:t}),n=t=>e({url:"/biz/machine/create",method:"post",data:t});export{r as g,n as m,a as q};

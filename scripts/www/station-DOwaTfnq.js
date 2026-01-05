@@ -1,0 +1,1 @@
+import{ah as e}from"./.pnpm-B-_m2kGH.js";const n=e("station",{state:()=>({stationId:null,machineNo:null,gatewayNo:null,installScreenItemList:[],number:null,screenStatusItemList:[],installScreenCollectorItemList:[],gatewayStatus:null}),actions:{setStationId(t){this.stationId=t}},persist:!0});export{n as u};
